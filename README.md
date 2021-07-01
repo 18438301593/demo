@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Note: This repository is inherited from the old Tuya Github repository: xxxxxx, which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this tutorial: https://github.com/TuyaInc/tuya-weapp-demo
 ## An overview of the
@@ -69,3 +70,6 @@ If no device is shown in the device list, you can click "Add Device", select "Sc
 
 - The full version Demo
   Currently support device control, message push, add device (distribution network), home module
+=======
+# demo
+>>>>>>> eeacbf5bad6b54df70bbd26e534e317c82c5f4bd
